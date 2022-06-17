@@ -15,7 +15,7 @@ main{
 
     
     
-    height: 100vh;
+    
     display: flex;
     justify-content: center;
     align-items: center;
@@ -138,6 +138,7 @@ main{
     main{
         flex-direction: row;
         margin-top: 0vh;
+        height: 100vh;
     }
 
     .card{
